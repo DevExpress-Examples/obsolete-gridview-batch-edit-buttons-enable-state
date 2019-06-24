@@ -7,6 +7,9 @@
 * [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # OBSOLETE - GridView - Batch Editing - How to use external buttons to update data and enable them only when a row/cell has been changed  
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t150395)**
+<!-- run online end -->
 
 
 <p><strong>UPDATED:</strong><br><br></p>
